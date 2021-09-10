@@ -1,5 +1,5 @@
 {
-    "name": "setono/sylius-gift-card-plugin",
+    "name": "bebeboutik/sylius-gift-card-plugin",
     "type": "sylius-plugin",
     "description": "Gift card plugin for Sylius",
     "license": "MIT",
